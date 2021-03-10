@@ -1,5 +1,3 @@
-! config.yml
-
 # CircleCI config file
 version: 2
 jobs:

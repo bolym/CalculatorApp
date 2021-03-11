@@ -1,7 +1,15 @@
-#Basic Calculator App
+"""
+Calculator app with basic methods.
+"""
 
-def add(n1, n2):
-  return (n1 + n2)
 
-def subtract(n1, n2):
-  return (n1 - n2)
+def add(a, b):
+    return a + b
+
+
+def subtract(a, b):
+    return a - b
+
+
+def multiply(a, b):
+    return a * b
